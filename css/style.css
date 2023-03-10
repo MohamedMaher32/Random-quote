@@ -1,0 +1,17 @@
+h1{
+    font-weight: 900;
+    font-size: 80px;
+    font-family: Impact;
+    margin-bottom: 30px;
+}
+p{
+    font-size: 35px;
+    font-family: none;
+}
+.container button{
+    padding: 30px 80px;
+    transition: all 0.5s;
+}
+.container button:hover{
+    background-color: green;
+}
